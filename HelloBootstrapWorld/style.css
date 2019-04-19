@@ -1,0 +1,75 @@
+.rouge{
+    height: 100px;
+    background-color: red;
+}
+.bleu{
+    height: 100px;
+    background-color: blue;
+}
+.vert{
+    height: 100px;
+    background-color: green;
+}
+.jaune{
+    height: 100px;
+    background-color: yellow;
+}
+html,body{
+    margin: 0;
+    height: 100%;
+}
+.bg{
+    background-image: url("./img/bg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hauteur100{
+    height: 100%;
+}
+h1{
+    font-size: 42px;
+    color: white;
+}
+.orange{
+    background-color: orangered;
+    height: 300px;
+}
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+.ligneRouge{
+    padding-bottom: 25px;
+    padding-top: 0px;
+    max-width: 150px;
+    border-width: 6px;
+    border-color: red;
+}
+.ligneBlanche{
+    padding-bottom: 15px;
+    padding-top: 0px;
+    max-width: 150px;
+    border-width: 6px;
+    border-color: white;
+}
+h3{
+    color: white;
+    margin-top: 20px;
+}
+.p1{
+    font-size: 36px;
+    color: white;
+}
+.p2{
+    font-size: 24px;
+    color: white;
+}
+.sousTitre{
+    font-size: 24px;
+    color: black;
+}
+h2{
+    margin-top: 30px;
+    text-align: center;
+}

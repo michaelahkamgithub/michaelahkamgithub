@@ -9,12 +9,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="64" column="7" lean-forward="true" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+            <state relative-caret-position="300">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="340">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="239" />
     <option name="y" value="191" />
     <option name="width" value="2082" />
@@ -60,45 +60,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HanSolo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HanSolo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
-              <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HanSolo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
-              <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HanSolo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
-              <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-              <item name="font" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HanSolo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
-              <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloBootstrapWorld" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -126,18 +94,21 @@
       <option name="presentableId" value="Default" />
       <updated>1552742271443</updated>
       <workItem from="1552742272599" duration="32000" />
-      <workItem from="1552743309023" duration="8991000" />
+      <workItem from="1552743309023" duration="9759000" />
+      <workItem from="1552753422840" duration="83000" />
+      <workItem from="1553209179177" duration="831000" />
+      <workItem from="1553212242840" duration="119000" />
+      <workItem from="1553212378876" duration="167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9023000" />
+    <option name="totallyTimeSpent" value="10991000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="239" y="191" width="2082" height="737" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31355095" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.113275036" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -162,17 +133,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="300">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
+    <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="64" column="7" lean-forward="true" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+        <state relative-caret-position="340">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>

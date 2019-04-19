@@ -1,0 +1,26 @@
+h5{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.rouge{
+    height: 100px;
+    background-color: red;
+}
+.bleu{
+    height: 100px;
+    background-color: blue;
+}
+.vert{
+    height: 100px;
+    background-color: green;
+}
+.jaune{
+    height: 100px;
+    background-color: yellow;
+}
+p{
+    text-align: center;
+}
