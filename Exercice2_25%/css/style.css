@@ -8,7 +8,7 @@
 }
 .parallax1 {
      background-image: url("../img/Photo-paralax-informatique-coding.jpg");
-     height: 500px;
+     height: 600px;
      background-attachment: fixed;
      background-position: center;
      background-repeat: no-repeat;
@@ -16,7 +16,7 @@
 }
 .parallax2 {
     background-image: url("../img/Photo-paralax-informatique-mainframe-03.jpg");
-    height: 500px;
+    height: 675px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -61,4 +61,10 @@ html,body{
 }
 .margin{
     margin-top: 18%;
+}
+.marginB{
+    margin-bottom: 48px;
+}
+.paddingT{
+    padding-top: 48px;
 }
