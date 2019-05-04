@@ -27,8 +27,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            <state relative-caret-position="255">
+              <caret line="39" column="73" lean-forward="true" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HanSolo/Han Solo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -70,13 +79,14 @@
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/style.css" />
         <option value="$PROJECT_DIR$/Exercice2_25%/Excercie2_25%.html" />
         <option value="$PROJECT_DIR$/Exercice2_25%/css/style.css" />
+        <option value="$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="783" />
-    <option name="y" value="56" />
-    <option name="width" value="1444" />
+    <option name="x" value="177" />
+    <option name="y" value="114" />
+    <option name="width" value="1931" />
     <option name="height" value="941" />
   </component>
   <component name="ProjectView">
@@ -84,6 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,13 +105,18 @@
             <path>
               <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
               <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
-              <item name="TravauxP2" type="462c0819:PsiDirectoryNode" />
+              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
+              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
+              <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,18 +181,19 @@
       <workItem from="1556153020836" duration="25000" />
       <workItem from="1556751437462" duration="62000" />
       <workItem from="1556835618643" duration="90000" />
-      <workItem from="1556838173450" duration="2300000" />
+      <workItem from="1556838173450" duration="3131000" />
+      <workItem from="1556976623693" duration="253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110500000" />
+    <option name="totallyTimeSpent" value="111584000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="783" y="56" width="1444" height="941" extended-state="0" />
+    <frame x="177" y="114" width="1931" height="941" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22182082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16622128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -258,13 +275,6 @@
     <entry file="file://$PROJECT_DIR$/Je me présente/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo/Han Solo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/exerciceFBtest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -300,9 +310,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice2_25%/img/Photo-paralax-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice2_25%/img/Photo-paralax-1.jpg" />
     <entry file="file://$PROJECT_DIR$/ProjetTestPerso/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -340,13 +348,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice2_25%/Excercie2_25%.html" />
-    <entry file="file://$PROJECT_DIR$/Exercice2_25%/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="46" column="6" lean-forward="true" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice2_25%/css/style.css" />
     <entry file="file://$PROJECT_DIR$/Excercie2_25%.html" />
     <entry file="file://$PROJECT_DIR$/Je me présente/OnePageClasses.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -365,38 +367,27 @@
     <entry file="file://$PROJECT_DIR$/Je me présente/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice2_25%/css/styleTP2_Parallax.css" />
+    <entry file="file://$PROJECT_DIR$/Exercice2_25%/TravauxPratique2_Parallax.html" />
+    <entry file="file://$PROJECT_DIR$/Exercice2/TravauxPratique2_Parallax.html" />
     <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/interface.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
+        <state relative-caret-position="15">
           <caret line="59" column="53" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice2_25%/css/styleTP2_Parallax.css">
+    <entry file="file://$PROJECT_DIR$/HanSolo/Han Solo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice2_25%/TravauxPratique2_Parallax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice2/TravauxPratique2_Parallax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="321">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="255">
+          <caret line="39" column="73" lean-forward="true" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="73" />
         </state>
       </provider>
     </entry>
