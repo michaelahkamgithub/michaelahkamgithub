@@ -1,0 +1,40 @@
+html,body{
+    margin: 0;
+    height: 100%;
+}
+.bg{
+    background-image: url("../img/BK.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hauteur100{
+    height: 100%;
+}
+.texteBlanche{
+    color: white;
+}
+.parallax {
+    background-image: url("../img/Photo-paralax-informatique-coding.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tailleTitre{
+    font-size: 48px;
+}
+.paragraphe{
+    font-size: 24px;
+}
+.rouge{
+    background-color: red;
+}
+.gris{
+    background-color: gray;
+}
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
