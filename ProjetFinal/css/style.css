@@ -22,6 +22,14 @@ html,body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.parallax1 {
+    background-image: url("../img/contact.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .tailleTitre{
     font-size: 48px;
 }
@@ -37,4 +45,7 @@ html,body{
 .container-fluid{
     padding: 0;
     margin: 0;
+}
+.font{
+    font-family: 'Gugi', cursive;
 }
