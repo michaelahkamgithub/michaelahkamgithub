@@ -23,21 +23,39 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProjetPerso/indexTest.html">
+        <entry file="file://$PROJECT_DIR$/ProjetPerso1/ProjetPerso1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            <state relative-caret-position="340">
+              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProjetPerso/css/style.css">
+        <entry file="file://$PROJECT_DIR$/ProjetPerso1/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+            <state relative-caret-position="586">
+              <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/interface.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="19" selection-start-line="33" selection-end-line="35" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -66,7 +84,6 @@
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/index.html" />
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/excercice6.html" />
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/excercice7.html" />
-        <option value="$PROJECT_DIR$/HelloBootstrapWorld/interface.html" />
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/interfaceTest.html" />
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/bookcommunication.html" />
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/styleBK.css" />
@@ -82,10 +99,14 @@
         <option value="$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html" />
         <option value="$PROJECT_DIR$/ProjetFinal/css/styleTP2_Parallax.css" />
         <option value="$PROJECT_DIR$/ProjetFinal/css/style.css" />
-        <option value="$PROJECT_DIR$/ProjetFinal/index.html" />
         <option value="$PROJECT_DIR$/ProjetPerso/index.html" />
-        <option value="$PROJECT_DIR$/ProjetPerso/indexTest.html" />
         <option value="$PROJECT_DIR$/ProjetPerso/css/style.css" />
+        <option value="$PROJECT_DIR$/ProjetPerso/indexTest.html" />
+        <option value="$PROJECT_DIR$/ProjetPerso1/index.html" />
+        <option value="$PROJECT_DIR$/ProjetFinal/index.html" />
+        <option value="$PROJECT_DIR$/HelloBootstrapWorld/interface.html" />
+        <option value="$PROJECT_DIR$/ProjetPerso1/css/style.css" />
+        <option value="$PROJECT_DIR$/ProjetPerso1/ProjetPerso1.html" />
       </list>
     </option>
   </component>
@@ -111,7 +132,12 @@
             <path>
               <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
               <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjetPerso" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloBootstrapWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjetPerso1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,11 +154,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michael Ah Kam\Dropbox\www\Michael Ah kam\michaelahkamgithub\ProjetPerso1" />
       <recent name="C:\Users\Michael Ah Kam\Dropbox\www\Michael Ah kam\michaelahkamgithub\ProjetPerso" />
       <recent name="C:\Users\Michael Ah Kam\Dropbox\www\Michael Ah kam\michaelahkamgithub\ProjetPerso\css" />
       <recent name="C:\Users\Michael Ah Kam\Dropbox\www\Michael Ah kam\michaelahkamgithub\ProjetFinal" />
       <recent name="C:\Users\Michael Ah Kam\Dropbox\www\Michael Ah kam\michaelahkamgithub\Exercice2_25%\css" />
-      <recent name="C:\Users\Michael Ah Kam\Dropbox\www\Michael Ah kam\michaelahkamgithub\Exercice2_25%" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -194,18 +220,19 @@
       <workItem from="1557146942799" duration="1897000" />
       <workItem from="1557148864545" duration="6335000" />
       <workItem from="1557155422578" duration="2227000" />
-      <workItem from="1557159474816" duration="8932000" />
+      <workItem from="1557159474816" duration="9291000" />
+      <workItem from="1557256317218" duration="6045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157466000" />
+    <option name="totallyTimeSpent" value="163870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13751987" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13871224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -354,13 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetTestPerso/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/styleFB.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -397,13 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetFinal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjetFinal/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -411,39 +424,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="39" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjetPerso/css/styleTest.css" />
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/interface.html">
+    <entry file="file://$PROJECT_DIR$/ProjetPerso/index.html" />
+    <entry file="file://$PROJECT_DIR$/ProjetPerso/indexTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="85" lean-forward="true" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetPerso/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="450">
+          <caret line="80" column="6" lean-forward="true" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetPerso/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
+        <state relative-caret-position="603">
           <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetPerso/indexTest.html">
+    <entry file="file://$PROJECT_DIR$/ProjetTestPerso/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        <state relative-caret-position="323">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetPerso1/indexTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="75" lean-forward="true" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetPerso1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="53" column="49" lean-forward="true" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetFinal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="45" column="10" lean-forward="true" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="19" selection-start-line="33" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetPerso1/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/interface.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetPerso1/ProjetPerso1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
         </state>
       </provider>
     </entry>
