@@ -24,20 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProjetFinal/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProjetFinal/css/style.css">
+        <entry file="file://$PROJECT_DIR$/ProjetPerso/indexTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            <state relative-caret-position="314">
+              <caret line="72" column="14" lean-forward="true" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -82,13 +73,13 @@
         <option value="$PROJECT_DIR$/ProjetFinal/css/styleTP2_Parallax.css" />
         <option value="$PROJECT_DIR$/ProjetPerso/index.html" />
         <option value="$PROJECT_DIR$/ProjetPerso/css/style.css" />
-        <option value="$PROJECT_DIR$/ProjetPerso/indexTest.html" />
         <option value="$PROJECT_DIR$/ProjetPerso1/index.html" />
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/interface.html" />
         <option value="$PROJECT_DIR$/ProjetPerso1/ProjetPerso1.html" />
         <option value="$PROJECT_DIR$/ProjetPerso1/css/style.css" />
         <option value="$PROJECT_DIR$/ProjetFinal/index.html" />
         <option value="$PROJECT_DIR$/ProjetFinal/css/style.css" />
+        <option value="$PROJECT_DIR$/ProjetPerso/indexTest.html" />
       </list>
     </option>
   </component>
@@ -113,13 +104,7 @@
             <path>
               <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
               <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjetFinal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjetFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjetPerso" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,18 +191,18 @@
       <workItem from="1557159474816" duration="9291000" />
       <workItem from="1557256317218" duration="7506000" />
       <workItem from="1557268215295" duration="792000" />
-      <workItem from="1557281114312" duration="302000" />
+      <workItem from="1557281114312" duration="1093000" />
+      <workItem from="1557443710485" duration="1185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166425000" />
+    <option name="totallyTimeSpent" value="168401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14109698" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14228936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -381,13 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="45" column="85" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HanSolo/Han Solo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -434,19 +412,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetPerso1/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/ProjetPerso/indexTest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="80" column="6" lean-forward="true" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjetPerso1/ProjetPerso1.html" />
     <entry file="file://$PROJECT_DIR$/ProjetPerso1/index.html" />
     <entry file="file://$PROJECT_DIR$/ProjetFinal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+        <state relative-caret-position="459">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -454,6 +425,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="535">
           <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-876">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetPerso/indexTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="72" column="14" lean-forward="true" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
         </state>
       </provider>
     </entry>
