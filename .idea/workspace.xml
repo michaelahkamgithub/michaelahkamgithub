@@ -25,10 +25,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProjetFinal/index.html">
+        <entry file="file://$PROJECT_DIR$/ExerciceWeb2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+            <state relative-caret-position="486">
+              <caret line="133" column="6" lean-forward="true" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExerciceWeb2/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="670">
+              <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
             </state>
           </provider>
         </entry>
@@ -69,7 +78,6 @@
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/style.css" />
         <option value="$PROJECT_DIR$/Exercice2_25%/Excercie2_25%.html" />
         <option value="$PROJECT_DIR$/Exercice2_25%/css/style.css" />
-        <option value="$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html" />
         <option value="$PROJECT_DIR$/ProjetFinal/css/styleTP2_Parallax.css" />
         <option value="$PROJECT_DIR$/ProjetPerso/index.html" />
         <option value="$PROJECT_DIR$/ProjetPerso/css/style.css" />
@@ -80,13 +88,16 @@
         <option value="$PROJECT_DIR$/ProjetFinal/css/style.css" />
         <option value="$PROJECT_DIR$/ProjetPerso/indexTest.html" />
         <option value="$PROJECT_DIR$/ProjetFinal/index.html" />
+        <option value="$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html" />
+        <option value="$PROJECT_DIR$/ExerciceWeb2/css/style.css" />
+        <option value="$PROJECT_DIR$/ExerciceWeb2/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="324" />
-    <option name="y" value="113" />
-    <option name="width" value="1203" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="264" />
+    <option name="y" value="167" />
+    <option name="width" value="1320" />
     <option name="height" value="902" />
   </component>
   <component name="ProjectView">
@@ -104,7 +115,13 @@
             <path>
               <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
               <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjetFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciceWeb2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciceWeb2" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,18 +210,19 @@
       <workItem from="1557268215295" duration="792000" />
       <workItem from="1557281114312" duration="1093000" />
       <workItem from="1557443710485" duration="1185000" />
-      <workItem from="1557444909567" duration="262000" />
+      <workItem from="1557444909567" duration="605000" />
+      <workItem from="1558525817256" duration="1972000" />
+      <workItem from="1558529124915" duration="18773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168663000" />
+    <option name="totallyTimeSpent" value="189751000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="264" y="167" width="1320" height="902" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14348172" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29444444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -361,13 +379,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetFinal/css/styleTP2_Parallax.css" />
-    <entry file="file://$PROJECT_DIR$/TravauxP2/css/styleTP2_Parallax.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-299">
-          <caret line="9" column="15" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HanSolo/Han Solo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -423,13 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-876">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjetPerso/indexTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -439,8 +443,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetFinal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+        <state relative-caret-position="399">
+          <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravauxP2/css/styleTP2_Parallax.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciceWeb2/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciceWeb2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="133" column="6" lean-forward="true" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
         </state>
       </provider>
     </entry>
