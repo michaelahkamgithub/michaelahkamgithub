@@ -24,9 +24,6 @@
 }
 .carreJaune {
     background-color: rgba(224, 217, 29, .5);
-    padding-left: 18px;
-    padding-bottom: 16px;
-    padding-top: 14px;
 }
 html,body{
     margin:0;
@@ -53,12 +50,9 @@ html,body{
 .Blanche{
     color: white;
 }
-.h1{
-    font-size: 48px;
-}
-.p{
-    font-size: 22px;
-}
 .margin{
     margin-top: 18%;
+}
+.p{
+    font-size: 1px;
 }
