@@ -16,14 +16,11 @@
 }
 .parallax2 {
     background-image: url("../img/Photo-paralax-informatique-mainframe-03.jpg");
-    height: 675px;
+    min-height: 675px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-.carreJaune {
-    background-color: rgba(224, 217, 29, .5);
 }
 html,body{
     margin:0;
@@ -55,4 +52,7 @@ html,body{
 }
 .p{
     font-size: 1px;
+}
+.carreJaune{
+    background-color: rgba(224, 217, 29, .5);
 }
