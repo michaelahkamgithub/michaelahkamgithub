@@ -23,7 +23,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/index1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,13 +87,14 @@
         <option value="$PROJECT_DIR$/ExcerciceWeb2_1/index.html" />
         <option value="$PROJECT_DIR$/ExcerciceWeb2_1/index1.html" />
         <option value="$PROJECT_DIR$/ExcerciceWeb2_1/index2.html" />
+        <option value="$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/index1.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="827" />
-    <option name="y" value="73" />
-    <option name="width" value="1323" />
+    <option name="x" value="118" />
+    <option name="y" value="213" />
+    <option name="width" value="2195" />
     <option name="height" value="902" />
   </component>
   <component name="ProjectView">
@@ -99,6 +110,17 @@
               <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
               <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
+              <item name="IntégrationWeb2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
+              <item name="IntégrationWeb2" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciceWeb2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -113,6 +135,10 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Michael Ah Kam\Dropbox\www\Michael Ah kam\michaelahkamgithub\IntégrationWeb2" />
+      <recent name="C:\Users\Michael Ah Kam\Dropbox\www\Michael Ah kam\michaelahkamgithub\IntégrationWeb1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Michael Ah Kam\Dropbox\www\Michael Ah kam\michaelahkamgithub\ExcerciceWeb2_1" />
       <recent name="C:\Users\Michael Ah Kam\Dropbox\www\Michael Ah kam\michaelahkamgithub\ExerciceWeb2" />
@@ -196,17 +222,18 @@
       <workItem from="1558826124372" duration="6415000" />
       <workItem from="1558908427601" duration="747000" />
       <workItem from="1558990062171" duration="6254000" />
-      <workItem from="1559052202421" duration="785000" />
+      <workItem from="1559052202421" duration="4506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217851000" />
+    <option name="totallyTimeSpent" value="221572000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="827" y="73" width="1323" height="902" extended-state="0" />
+    <frame x="16" y="620" width="1804" height="902" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3246239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23509175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -231,14 +258,14 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/excercice6.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/excercice6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/img/bg.jpg">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/img/bg.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/IntégrationWeb1/Je me présente/css/styleClasses.css">
@@ -246,14 +273,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/styleBK.css" />
     <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/bookcommunication.html" />
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/excercice7.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/excercice7.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/index.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
@@ -263,14 +290,14 @@
     <entry file="file://$PROJECT_DIR$/IntégrationWeb1/Je me présente/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/exerciceFBtest.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/exerciceFBtest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/TestInterface.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/TestInterface.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
@@ -286,14 +313,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice2_25%/index.html" />
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/exerciceFB.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/exerciceFB.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/excercice4.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/excercice4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
@@ -323,14 +350,14 @@
     <entry file="file://$PROJECT_DIR$/Exercice2_25%/css/styleTP2_Parallax.css" />
     <entry file="file://$PROJECT_DIR$/Exercice2_25%/TravauxPratique2_Parallax.html" />
     <entry file="file://$PROJECT_DIR$/Exercice2/TravauxPratique2_Parallax.html" />
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/interfaceTest.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/interfaceTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/styleFB.css">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/styleFB.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
@@ -338,14 +365,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetFinal/css/styleTP2_Parallax.css" />
-    <entry file="file://$PROJECT_DIR$/HanSolo/Han Solo/css/style.css">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HanSolo/Han Solo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="2" lean-forward="true" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo/Han Solo/index.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HanSolo/Han Solo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
@@ -362,14 +389,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetPerso1/indexTest.html" />
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/style.css">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="19" selection-start-line="33" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/interface.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HelloBootstrapWorld/interface.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="35" />
@@ -379,7 +406,7 @@
     <entry file="file://$PROJECT_DIR$/ProjetPerso1/css/style.css" />
     <entry file="file://$PROJECT_DIR$/ProjetPerso1/ProjetPerso1.html" />
     <entry file="file://$PROJECT_DIR$/ProjetPerso1/index.html" />
-    <entry file="file://$PROJECT_DIR$/ProjetFinal/css/style.css">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/ProjetFinal/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="535">
           <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
@@ -400,35 +427,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TravauxP2/css/styleTP2_Parallax.css">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/TravauxP2/css/styleTP2_Parallax.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciceWeb2/index.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1301">
           <caret line="20" column="23" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetFinal/index.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/ProjetFinal/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
           <caret line="69" column="46" lean-forward="true" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TravauxP2/TravauxPratique2_Parallax.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/TravauxP2/TravauxPratique2_Parallax.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
           <caret line="97" column="63" selection-start-line="97" selection-start-column="48" selection-end-line="97" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciceWeb2/css/style.css">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
@@ -462,10 +489,10 @@
     <entry file="file://$PROJECT_DIR$/ExcerciceWeb2_1/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciceWeb2/index1.html">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="517">
+          <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
         </state>
       </provider>
     </entry>
