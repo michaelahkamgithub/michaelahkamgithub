@@ -191,3 +191,36 @@ hr{
     color: #ecdbff;
     background-color: #4471ad;
 }
+body{
+    background: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+
+.onglet1 img{
+    display: block;
+    width: 1500px;
+    height: 678px;
+}
+.onglet1:hover .onglet1-s{
+    width: 850px;
+}
+.onglet1-s{
+    width: 0px;
+    height: 678px;
+    background: rgba(255,0,0,0.4);
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    transition: 0.9s ease;
+}
+.onglet1-s h2{
+    color: white;
+    font-family: Plateia;
+    font-size: 50px;
+    border: 6px solid white;
+    padding: 10px 30px;
+}
