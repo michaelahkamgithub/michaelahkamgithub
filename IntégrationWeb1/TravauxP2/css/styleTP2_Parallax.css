@@ -8,7 +8,7 @@
 }
 .parallax1 {
      background-image: url("../img/Photo-paralax-informatique-coding.jpg");
-     height: 600px;
+     min-height: 600px;
      background-attachment: fixed;
      background-position: center;
      background-repeat: no-repeat;
@@ -21,6 +21,12 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.carreJaune {
+    background-color: rgba(224, 217, 29, .5);
+    padding-left: 20px;
+    padding-bottom: 12px;
+    padding-top: 8px;
 }
 html,body{
     margin:0;
@@ -47,12 +53,13 @@ html,body{
 .Blanche{
     color: white;
 }
+.h1{
+    font-size: 48px;
+}
+.p{
+    font-size: 22px;
+}
 .margin{
     margin-top: 18%;
 }
-.p{
-    font-size: 1px;
-}
-.carreJaune{
-    background-color: rgba(224, 217, 29, .5);
-}
+
