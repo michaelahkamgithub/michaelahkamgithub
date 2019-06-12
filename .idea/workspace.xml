@@ -23,21 +23,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/FormulaireEnvoye.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2140">
-              <caret line="56" column="84" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/FormulaireEnvoye1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            <state relative-caret-position="425">
+              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -45,8 +36,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="46" column="40" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+            <state relative-caret-position="698">
+              <caret line="95" column="24" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="47" column="15" lean-forward="true" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/recherche.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="106" column="43" lean-forward="true" selection-start-line="106" selection-start-column="43" selection-end-line="106" selection-end-column="43" />
+            <state relative-caret-position="625">
+              <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#6;n#form#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -125,23 +125,24 @@
         <option value="$PROJECT_DIR$/IntégrationWeb2/ExcerciceWeb2_1/index.html" />
         <option value="$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/FormulaireEnvoye.html" />
         <option value="$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/css/style.css" />
-        <option value="$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/index.html" />
         <option value="$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/FormulaireEnvoye1.html" />
+        <option value="$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/index.html" />
         <option value="$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/recherche.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="571" />
-    <option name="y" value="162" />
-    <option name="width" value="1343" />
-    <option name="height" value="863" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="58" />
+    <option name="y" value="89" />
+    <option name="width" value="1435" />
+    <option name="height" value="998" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,11 +161,17 @@
               <item name="IntégrationWeb2" type="462c0819:PsiDirectoryNode" />
               <item name="ExWeb2Formulaire" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
+              <item name="IntégrationWeb2" type="462c0819:PsiDirectoryNode" />
+              <item name="ExWeb2Formulaire" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,18 +272,21 @@
       <workItem from="1559052202421" duration="21892000" />
       <workItem from="1559132816420" duration="22398000" />
       <workItem from="1559173344511" duration="79000" />
-      <workItem from="1559686526277" duration="2256000" />
+      <workItem from="1559686526277" duration="2852000" />
+      <workItem from="1560282456982" duration="72000" />
+      <workItem from="1560291629963" duration="2563000" />
+      <workItem from="1560365633678" duration="5965000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="263691000" />
+    <option name="totallyTimeSpent" value="272887000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="571" y="162" width="1343" height="863" extended-state="0" />
+    <frame x="58" y="89" width="1435" height="998" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3281372" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32145455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -445,13 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/index1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
@@ -501,38 +504,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/css/style.css">
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="47" column="15" lean-forward="true" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
+        <state relative-caret-position="-1487">
+          <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/FormulaireEnvoye.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2140">
+        <state relative-caret-position="648">
           <caret line="56" column="84" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="15" lean-forward="true" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/FormulaireEnvoye1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        <state relative-caret-position="425">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="46" column="40" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+        <state relative-caret-position="698">
+          <caret line="95" column="24" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExWeb2Formulaire/recherche.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="106" column="43" lean-forward="true" selection-start-line="106" selection-start-column="43" selection-end-line="106" selection-end-column="43" />
+        <state relative-caret-position="625">
+          <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#6;n#form#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

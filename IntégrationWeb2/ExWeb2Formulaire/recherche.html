@@ -45,40 +45,40 @@
 <div class="container h-100">
     <form>
         <div class="form-row align-items-center text-center pt-3">
-            <div class="col-md-8">
+            <div class="col-xl-8">
                 <img src="img/micabdngrd.png" height="200" width="500">
             </div>
-            <div class="col-md-4 pt-5">
+            <div class="col-xl-4 pt-5">
                 <h3>Michael Branding <br> 6765 Boul.Milan <br> Brossard (QC) <br> CANADA</h3>
             </div>
         </div>
         <div class="row align-items-center text-center pt-5">
-            <div class="offset-1 col-xl-10">
+            <div class="offset-xl-1 col-xl-10">
                 <h1>Recherche d'un forfait voyage</h1>
             </div>
         </div>
             <form>
                 <div class="form-row">
                     <div class="col-xl-4 pt-4 my-5">
-                        <input type="text" class="form-control" placeholder="Prénom">
+                        <input type="text" class="form-control" id="Prénom" placeholder="Prénom">
                     </div>
                     <div class="col-xl-4 pt-4 my-5">
-                        <input type="text" class="form-control" placeholder="Nom">
+                        <input type="text" class="form-control" id="Nom" placeholder="Nom">
                     </div>
                     <div class="form-group col-xl-4 pt-4 my-5">
-                        <input type="text" class="form-control" id="inputAddress" placeholder="Adresse">
+                        <input type="text" class="form-control" id="Address" placeholder="Adresse">
                     </div>
                 </div>
 
                 <div class="form-row">
                     <div class="form-group col-md-6">
-                        <input type="text" class="form-control" id="inputCity" placeholder="Ville">
+                        <input type="text" class="form-control" id="Ville" placeholder="Ville">
                     </div>
                     <div class="form-group col-md-4">
-                        <input type="text" class="form-control" id="tel" placeholder="Téléphone">
+                        <input type="text" class="form-control" id="Téléphone" placeholder="Téléphone">
                     </div>
                     <div class="form-group col-md-2">
-                        <input type="text" class="form-control" id="inputZip" placeholder="Code postal">
+                        <input type="text" class="form-control" id="Code postal" placeholder="Code postal">
                     </div>
                 </div>
                 <div class="form-group">
@@ -98,8 +98,8 @@
 
 <div class="container h-100">
     <form>
-        <label for="textarea">Départ:</label>
-        <select class="custom-select">
+        <label for="Départ">Départ:</label>
+        <select class="custom-select" id="Départ">
             <option selected>Veuillez choisir votre ville de départ</option>
             <option value="1">Montréal</option>
             <option value="2">France</option>
@@ -112,8 +112,8 @@
             <option value="9">Afrique</option>
         </select>
         <br><br>
-        <label for="textarea">Destination:</label>
-        <select class="custom-select">
+        <label for="Destination">Destination:</label>
+        <select class="custom-select" id="Destination">
             <option selected>Veuillez choisir votre ville de destination</option>
             <option value="1">Montréal</option>
             <option value="2">France</option>
@@ -128,16 +128,16 @@
         <br><br>
         <div class="form-row">
             <div class="col-xl-2">
-                <label for="textarea">Date de départ:</label>
-                <input class="form-control" type="date" value="2011-08-19T13:45:00" id="example-datetime-local-input">
+                <label for="Départ">Date de départ:</label>
+                <input class="form-control" type="date" value="2011-08-19T13:45:00" id="Départ">
             </div>
             <div class="col-xl-2">
-                <label for="textarea">Date du retour:</label>
-                <input class="form-control" type="date" value="2011-08-19T13:45:00" id="example-datetime-local-input">
+                <label for="Retour">Date du retour:</label>
+                <input class="form-control" type="date" value="2011-08-19T13:45:00" id="Retour">
             </div>
             <div class="form-group col-xl-2">
-                <label for="textarea">Nombre d'adultes</label>
-                <select class="form-control" id="exampleFormControlSelect1">
+                <label for="Nombres d'adultes">Nombre d'adultes</label>
+                <select class="form-control" id="Nombres d'adultes">
                     <option>1</option>
                     <option>2</option>
                     <option>3</option>
@@ -146,8 +146,8 @@
                 </select>
             </div>
             <div class="form-group col-xl-2">
-                <label for="textarea">Nombre d'enfants</label>
-                <select class="form-control" id="exampleFormControlSelect1">
+                <label for="Nombres d'enfants">Nombre d'enfants</label>
+                <select class="form-control" id="Nombres d'enfants">
                     <option>1</option>
                     <option>2</option>
                     <option>3</option>
@@ -157,12 +157,20 @@
             </div>
         </div>
         <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
-            <label class="form-check-label" for="exampleRadios1">Avion</label>
+            <input class="form-check-input" type="radio" name="Transport" id="Avion" value="Avion" checked>
+            <label class="form-check-label" for="Avion">Avion</label>
         </div>
         <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
-            <label class="form-check-label" for="exampleRadios2">Train</label>
+            <input class="form-check-input" type="radio" name="Transport" id="Train" value="Train">
+            <label class="form-check-label" for="Train">Train</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="Type de siège" id="Type de siège" value="Affaire">
+            <label class="form-check-label" for="Train">Affaire</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="Type de siège" id="Type de siège" value="Économique">
+            <label class="form-check-label" for="Train">Économique</label>
         </div>
 
         <div class="form-check form-check-inline">
@@ -185,8 +193,9 @@
         </div>
         <div class="container">
             <div class="row align-items-center text-center pt-5">
-                <div class="col-xl-3">
+                <div class="col-xl-1">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d119938.70648530147!2d57.45916915901413!3d-20.046899814301824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x217c53360cf4b5d5%3A0xfe97c417e7614d44!2sVeranda+Pointe+Aux+Biches+Hotel+-+Mauritius%2C+Royal+Road%2C+Pointe+aux+Biches%2C+Maurice!3m2!1d-20.0469136!2d57.529209599999994!5e0!3m2!1sfr!2sca!4v1559172476117!5m2!1sfr!2sca" width="650" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <br><br>
                     <button class="btn btn-danger btn-lg mt-2" type="submit">Soumettre</button>
                 </div>
             </div>
