@@ -1,4 +1,4 @@
-<?php include "header.php"; ?>
+<?php include "header.php";?>
 <!-- Masthead -->
 <header class="masthead">
     <div class="container h-100">
@@ -153,4 +153,4 @@
     </div>
 </section>
 
-<?php include "footer.php" ?>
+<?php include "footer.php";?>
