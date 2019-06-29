@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <title>TpProjetHTML</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/png" href="img/Favicon.png"/>
+</head>
+
+<body id="Accueil">
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-menu fixed-top py-3">
+    <a class="navbar-brand js-scroll-trigger" href="#Accueil"><img src="img/Favicon.png" height="65" width="100" alt="Mon logo" title="Mon logo"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav ml-auto my-2 my-lg-0">
+            <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="index.html">Accueil</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="Services.html">Services</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link js-scroll-trigger " href="Contact.html">Contacts</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div id="Contacts" class="container-fluid parallax1">
+    <div class="row d-flex flex-wrap align-items-center text-center no-gutters pt-3">
+        <div class="col-xl-12 col-md-12 col-sm-12 mt-5 pt-5">
+            <div class="container align-items-center">
+                <div class="row text-center p-2">
+                    <div class="col-xl-12 col-12 text-md-center mb-5">
+                        <h2 class="texteBlanche">Contactez-nous</h2>
+                        <hr>
+                    </div>
+                    <div class="col-xl-4 col-md-4 col-12 p-2">
+                        <i class="fas fa-phone fa-3x rouge pb-2"></i>
+                        <h3 class="texteBlanche">Téléphone</h3>
+                        <p class="texteBlanche">(819) 580-8408</p>
+                    </div>
+                    <div class="col-xl-4 col-md-4 col-12 p-2">
+                        <i class="fas fa-map-marker-alt fa-3x rouge pb-2"></i>
+                        <h3 class="texteBlanche">Adresse</h3>
+                        <p class="texteBlanche">Boul Milan, Sherbrooke(QC)</p>
+                    </div>
+                    <div class="col-xl-4 col-md-4 col-12 p-2">
+                        <i class="fas fa-envelope fa-3x rouge pb-2"></i>
+                        <h3 class="texteBlanche">Courriel</h3>
+                        <p class="texteBlanche">pixelsprophotographie@hotmail.com</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <form action="FormulaireEnvoye.html">
+        <div class="form-row pt-1 my-4 no-gutters">
+            <div class="col-xl-6 col-md-12 col-sm-12 pt-5 my-4">
+                <label for="Prénom">Prénom :</label>
+                <input type="text" class="form-control" id="Prénom" placeholder="Entrer votre Prénom ici">
+            </div>
+            <div class="col-xl-6 col-md-12 col-sm-12 pt-5 my-4">
+                <label for="Nom">Nom :</label>
+                <input type="text" class="form-control" id="Nom" placeholder="Entrer votre Nom ici">
+            </div>
+        </div>
+
+        <label for="choix">Entrer votre choix</label>
+        <select class="custom-select" id="choix">
+            <option value="0">Veuillez entrer votre choix dans la liste en dessous</option>
+            <option value="1">Je veux m'inscrire à la formation</option>
+            <option value="2">Je souhaite avoir plus d'information</option>
+            <option value="3">J'ai besoin de vos services en photographie</option>
+            <option value="4">Je désire avoir une soumission</option>
+        </select>
+
+        <section class="row no-gutters">
+            <div class="col-xl-12 col-md-12 col-sm-12">
+                <form>
+                    <div class="form-group pt-5">
+                        <label for="question">Votre message:</label>
+                        <textarea id="question" class="form-control" rows="4"></textarea>
+                        <small class="form-text text-muted">Vous pouvez agrandir la fenêtre</small>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="priorite" id="priorite" value="Urgent"
+                               checked>
+                        <label class="form-check-label" for="priorite">
+                            Urgent
+                        </label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="priorite" id="priorite1" value="Important">
+                        <label class="form-check-label" for="priorite1">
+                            Important
+                        </label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="priorite" id="priorite3" value="Peu attendre">
+                        <label class="form-check-label" for="priorite3">
+                            Peu attendre
+                        </label>
+                    </div>
+                    <br>
+                    <button class="btn btn-danger btn-lg" type="submit">Envoyer</button>
+                </form>
+            </div>
+        </section>
+    </form>
+</div>
+
+<br>
+
+<!-- Footer -->
+<footer class="bg-light py-5">
+    <div class="container">
+        <div class="small text-center text-muted">Copyright &copy; 2019 - Pixels Pro Photographie. Tous droits réservés</div>
+    </div>
+</footer>
+
+<script src="js/jquery-3.3.1.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+</html>
