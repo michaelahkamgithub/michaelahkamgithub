@@ -1,41 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr-ca">
-<head>
-    <meta charset="UTF-8">
-    <title>Pixels Pro Photographie. Agence de photographie professionnel.</title>
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Gugi" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Agence photographie professionnel à Sherbrooke."/>
-    <meta name ="keywords" content= "Photographie, appareil photo, canon, nikon, grand angle">
-    <meta name="author" content="Pixels Pro Photographie">
-    <link rel="icon" type="image/png" href="img/Favicon.png"/>
-</head>
-
-<body id="Accueil">
-
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-menu fixed-top py-3">
-    <a class="navbar-brand js-scroll-trigger" href="#Accueil"><img src="img/Favicon.png" height="65" width="100" alt="Mon logo" title="Mon logo"></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav ml-auto my-2 my-lg-0">
-            <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="index.html">Accueil</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="Services.html">Services</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link js-scroll-trigger " href="Contact.html">Contacts</a>
-            </li>
-        </ul>
-    </div>
-</nav>
+<?php include"header.php"; ?>
 
 <div id="Contacts" class="container-fluid parallax1">
     <div class="row d-flex flex-wrap align-items-center text-center no-gutters pt-3">
@@ -74,7 +37,7 @@
 </div>
 
 <div class="container">
-    <form action="FormulaireEnvoye.html">
+    <form action="FormulaireEnvoye.php">
         <div class="form-row pt-1 my-4">
             <div class="col-xl-6 col-md-12 col-sm-12 pt-5 my-4">
                 <label for="Prénom">Prénom :</label>
@@ -145,7 +108,7 @@
             <h1 class="texteContact texte4">Pixels Pro Photographie</h1>
             <p>Sherbrooke, QC, CANADA <br> pixelsprophotographie@hotmail.com <br> (819) 580-8408 <br> Lun au Ven : 8h à 17h</p>
 
-            <a href="Contact.html"><button type="button" class="btn btn-danger btn-lg">NOUS CONTACTER DÈS MAINTENANT</button></a>
+            <a href="Contact.php"><button type="button" class="btn btn-danger btn-lg">NOUS CONTACTER DÈS MAINTENANT</button></a>
         </div>
         <div class="col-xl-6 col-md-12 col-sm-12 my-5 pt-5">
             <img src="img/ap.jpg" alt="Image camera" class="img-fluid"/>
@@ -153,15 +116,4 @@
     </div>
 </div>
 
-<!-- Footer -->
-<footer class="bg-light py-5">
-    <div class="container">
-        <div class="small text-center text-muted">Copyright &copy; 2019 - Pixels Pro Photographie. Tous droits réservés</div>
-    </div>
-</footer>
-
-<script src="js/jquery-3.3.1.js"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
-<script src="js/bootstrap.js"></script>
-</body>
-</html>
+<?php include"footer.php" ?>

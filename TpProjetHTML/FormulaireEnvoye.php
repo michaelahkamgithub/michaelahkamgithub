@@ -16,7 +16,7 @@
     <div class="row align-items-center text-center">
         <div class="col-xl-12 pt-5">
             <h1> Formulaire envoyé avec succès!!!</h1>
-            <form action="index.html">
+            <form action="index.php">
                 <input type="submit" value="Revenir au formulaire"/>
             </form>
         </div>
