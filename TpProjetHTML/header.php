@@ -14,11 +14,11 @@
     <link rel="icon" type="image/png" href="img/Favicon.png"/>
 </head>
 
-<body id="Accueil">
+<body id="index.php">
 
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-menu fixed-top py-3">
-    <a class="navbar-brand js-scroll-trigger" href="#Accueil"><img src="img/Favicon.png" height="65" width="100" alt="Mon logo" title="Mon logo"></a>
+    <a class="navbar-brand js-scroll-trigger" href="index.php"><img src="img/Favicon.png" height="65" width="100" alt="Mon logo" title="Mon logo"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>

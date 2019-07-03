@@ -23,13 +23,28 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Ah_Kam_Michael_TP2.zip/Ah_Kam_Michael_TP2/maxwell-child/footer.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Ah_Kam_Michael_TP2.zip/Ah_Kam_Michael_TP2/maxwell-child/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -48,10 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ExcerciceWeb2_1/index.html" />
-        <option value="$PROJECT_DIR$/ExcerciceWeb2_1/index1.html" />
-        <option value="$PROJECT_DIR$/ExcerciceWeb2_1/index2.html" />
-        <option value="$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/index.html" />
         <option value="$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/css/style.css" />
         <option value="$PROJECT_DIR$/IntégrationWeb1/TravauxP2/css/styleTP2_Parallax.css" />
         <option value="$PROJECT_DIR$/IntégrationWeb2/ExcerciceWeb2_1/index.html" />
@@ -92,21 +103,25 @@
         <option value="$PROJECT_DIR$/TpProjetHTML/css/style.css" />
         <option value="$PROJECT_DIR$/SauvegardeTpProjetHTML/index.html" />
         <option value="$PROJECT_DIR$/TpProjetHTML/Services.php" />
-        <option value="$PROJECT_DIR$/TpProjetHTML/header.php" />
         <option value="$PROJECT_DIR$/TpProjetHTML/footer.php" />
         <option value="$PROJECT_DIR$/TpProjetHTML/index.html" />
         <option value="$PROJECT_DIR$/TpProjetHTML/Services.html" />
         <option value="$PROJECT_DIR$/TpProjetHTML/Contact.html" />
         <option value="$PROJECT_DIR$/TpProjetHTML/Contact.php" />
         <option value="$PROJECT_DIR$/TpProjetHTML/index.php" />
+        <option value="$PROJECT_DIR$/TpProjetHTML/header.php" />
+        <option value="$PROJECT_DIR$/maxwell-child/functions.php" />
+        <option value="$PROJECT_DIR$/maxwell-child/footer.php" />
+        <option value="$PROJECT_DIR$/maxwell-child/style.css" />
+        <option value="$PROJECT_DIR$/maxwell-child/header.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="340" />
-    <option name="y" value="136" />
-    <option name="width" value="1534" />
-    <option name="height" value="987" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="325" />
+    <option name="y" value="180" />
+    <option name="width" value="1946" />
+    <option name="height" value="814" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -114,17 +129,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,16 +250,21 @@
       <workItem from="1561839923534" duration="599000" />
       <workItem from="1561844364931" duration="9509000" />
       <workItem from="1561854178197" duration="3251000" />
+      <workItem from="1561858047318" duration="889000" />
+      <workItem from="1562117522378" duration="5092000" />
+      <workItem from="1562155106392" duration="378000" />
+      <workItem from="1562155970084" duration="65000" />
+      <workItem from="1562156279177" duration="8584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="365474000" />
+    <option name="totallyTimeSpent" value="380482000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <frame x="325" y="180" width="1946" height="814" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20906201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29745492" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -279,35 +289,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/Je me présente/OnePage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/Je me présente/OnePageClasses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="12" lean-forward="true" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/Je me présente/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/Je me présente/Loisirs.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/Je me présente/Rêves.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/Je me présente/Sports.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/Je me présente/Études.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/page3.html" />
     <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/À propos.html" />
     <entry file="file://$PROJECT_DIR$/TestProjetHTML/index1.html" />
@@ -448,13 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/index1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IntégrationWeb1/ProjetFinal/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -497,38 +471,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TpProjetHTML/Contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="118" column="30" selection-start-line="118" selection-start-column="30" selection-end-line="118" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TpProjetHTML/Services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="85" column="30" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SauvegardeTpProjetHTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="114" column="17" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TpProjetHTML/Contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="88" column="88" lean-forward="true" selection-start-line="88" selection-start-column="88" selection-end-line="88" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TpProjetHTML/Services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -553,24 +499,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TpProjetHTML/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TpProjetHTML/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="59" column="52" selection-end-line="85" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TpProjetHTML/index.html" />
     <entry file="file://$PROJECT_DIR$/TpProjetHTML/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
           <caret line="75" column="72" lean-forward="true" selection-start-line="75" selection-start-column="72" selection-end-line="75" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projet Test Michael/twentyseventeen-child/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="true" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projet Test Michael/twentyseventeen-child/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" lean-forward="true" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxwell-child/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxwell-child/img/Logo cegep trois rivieres.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TpProjetHTML/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/HanSolo/Han Solo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="148" lean-forward="true" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb2/ExerciceWeb2/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="125" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxwell-child/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxwell-child/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxwell-child/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxwell-child/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Ah_Kam_Michael_TP2.zip/Ah_Kam_Michael_TP2/maxwell-child/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Ah_Kam_Michael_TP2.zip/Ah_Kam_Michael_TP2/maxwell-child/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
