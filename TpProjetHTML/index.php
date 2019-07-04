@@ -37,7 +37,6 @@
 <div class="container-fluid parallax2">
     <div class="row align-items-center">
         <div class="col-xl-2">
-
         </div>
         <div class="col-xl-4 col-md-12 col-sm-12 pt-5">
             <h1 class="blanche texteAbout texteAbout1">Qui-sommes nous?</h1>
@@ -50,7 +49,6 @@
             <img src="img/camera-lens.jpg" alt="Image camera" class="img-fluid"/>
         </div>
         <div class="col-xl-2 py-3 pt-5">
-
         </div>
     </div>
 </div>
