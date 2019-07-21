@@ -10680,10 +10680,6 @@ header.masthead {
   background-size: cover;
 }
 
-header.masthead h1 {
-  font-size: 2.25rem;
-}
-
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
@@ -10747,6 +10743,10 @@ header.masthead h1 {
   font-weight: 600;
   text-transform: uppercase;
 }
+.h1{
+  color: white;
+  font-size: 10px;
+}
 
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name {
   font-size: 1.2rem;
@@ -10754,4 +10754,55 @@ header.masthead h1 {
 
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
+}
+@media only screen and (max-width: 575px){
+  .TexteAccueil{
+    font-size: 18px;
+  }
+  header.masthead {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(92, 77, 66, 0.8)), to(rgba(92, 77, 66, 0.8))), url("../img/bg-book-mini.jpg");
+    background: url("../img/bg-book-mini.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+  .sousTitre{
+    font-size: 10px;
+  }
+  .quiSommesNous{
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .TexteAccueil1{
+    font-size: 34px;
+  }
+  header.masthead {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(92, 77, 66, 0.8)), to(rgba(92, 77, 66, 0.8))), url("../img/bg-book-miniPad.jpg");
+    background: url("../img/bg-book-miniPad.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+  .sousTitre1{
+    font-size: 22px;
+  }
+  .quiSommesNous1{
+    font-size: 42px;
+  }
+  .nosServices{
+    font-size: 42px;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1366px) {
+  header.masthead {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(92, 77, 66, 0.8)), to(rgba(92, 77, 66, 0.8))), url("../img/bg-book-Pad.jpg");
+    background: url("../img/bg-book-Pad.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
 }
