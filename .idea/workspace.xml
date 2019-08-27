@@ -24,11 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IntégrationWeb1/ProjetFinal/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flash/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="22" column="63" lean-forward="true" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+            <state relative-caret-position="510">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Flash/js/monJquery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="574">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
             </state>
           </provider>
         </entry>
@@ -61,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/footer.php" />
-        <option value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/header.php" />
         <option value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/index.php" />
         <option value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/Page1.php" />
         <option value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/Page2.php" />
@@ -112,14 +119,16 @@
         <option value="$PROJECT_DIR$/startbootstrap/Portfolio.html" />
         <option value="$PROJECT_DIR$/startbootstrap/À propos.html" />
         <option value="$PROJECT_DIR$/startbootstrap/index.html" />
+        <option value="$PROJECT_DIR$/Flash/Index.html" />
+        <option value="$PROJECT_DIR$/Flash/js/monJquery.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="380" />
-    <option name="y" value="200" />
-    <option name="width" value="1741" />
-    <option name="height" value="538" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="889" />
+    <option name="y" value="100" />
+    <option name="width" value="1503" />
+    <option name="height" value="857" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -136,13 +145,13 @@
             <path>
               <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
               <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
-              <item name="IntégrationWeb1" type="462c0819:PsiDirectoryNode" />
+              <item name="Flash" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
               <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
-              <item name="IntégrationWeb1" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjetFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="Flash" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,13 +297,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="403702000" />
+    <option name="totallyTimeSpent" value="408459000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="728" y="101" width="1398" height="857" extended-state="0" />
+    <frame x="889" y="100" width="1503" height="857" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22795217" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1018711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -312,21 +321,13 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32949126" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32884902" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maxwell-child/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Ah_Kam_Michael_TP2.zip/Ah_Kam_Michael_TP2/maxwell-child/footer.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Ah_Kam_Michael_TP2.zip/Ah_Kam_Michael_TP2/maxwell-child/header.php" />
     <entry file="file://$PROJECT_DIR$/TpProjetHTML/FormulaireEnvoye.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -539,6 +540,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="22" column="63" lean-forward="true" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash/js/monJquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>

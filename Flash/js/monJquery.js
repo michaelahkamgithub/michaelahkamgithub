@@ -39,7 +39,7 @@ $( "#boutonAjouterTitre" ).click(function() {
 });
 
 $( "#boutonAjouterAttribut" ).click(function() {
-    $('#flashID').attr("alt","Photo de flash")
+    $('#flashID').attr("alt" , "Photo de flash");
 });
 
 $( "#boutonVitesseSupreme" ).click(function() {
@@ -50,3 +50,15 @@ function disparaitreFlash(){
     $('#flashID') .toggle();
 }
 
+$( "#boutonRalentir" ).click(function() {
+    $("#flashID").hide(5000);
+});
+
+$( "#boutonDupliquer" ).click(function() {
+    $("#flashID").show();
+    $('body').append('<img id="flashID" src="medias/flash.jpg" width="200px">');
+});
+
+$("#boutonNuke").click(function(){
+    $("#flashID").hide( "explode", {pieces: 16 }, 2000 );
+});
