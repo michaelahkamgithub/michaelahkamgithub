@@ -1,5 +1,7 @@
-<!DOCTYPE html>
-<html lang="fr-ca">
+<?php
+/* Template Name: Gabarit services */
+?>
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -50,97 +52,52 @@
     </nav>
 </header>
 
-<div class="slider">
-    <div class="img-responsive">
-        <ul class="bxslider">
-            <li><img src="<?php bloginfo('stylesheet_directory');?>/images/slider/1.jpg" alt=""/></li>
-            <li><img src="<?php bloginfo('stylesheet_directory');?>/images/slider/2.jpg" alt=""/></li>
-            <li><img src="<?php bloginfo('stylesheet_directory');?>/images/slider/3.jpg" alt=""/></li>
-        </ul>
-    </div>
-</div>
-
-<div class="container">
-    <div class="text-center">
-        <div class="wow bounceInDown" data-wow-offset="0" data-wow-delay="0.3s">
-            <h3>Providing Our Clients</h3>
-        </div>
-        <div class="wow bounceInDown" data-wow-offset="0" data-wow-delay="0.6s">
-            <h2>Best & Creative Solutions</h2>
-        </div>
-    </div>
-</div>
-
-<div class="box">
-    <div class="wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.4s">
-        <div class="col-sm-3">
-            <i class="fa fa-cogs fa-3x"></i>
-            <h4>Creative Solutions</h4>
-        </div>
-    </div>
-    <div class="wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.8s">
-        <div class="col-sm-3">
-            <i class="fa fa-leaf fa-3x"></i>
-            <h4>Creative Solutions</h4>
-        </div>
-    </div>
-    <div class="wow fadeInRight" data-wow-offset="0" data-wow-delay="1.2s">
-        <div class="col-sm-3">
-            <i class="fa fa-heart-o fa-3x"></i>
-            <h4>Creative Solutions</h4>
-        </div>
-    </div>
-    <div class="wow fadeInRight" data-wow-offset="0" data-wow-delay="1.6s">
-        <div class="col-sm-3">
-            <i class="fa fa-laptop fa-3x"></i>
-            <h4>Creative Solutions</h4>
-        </div>
-    </div>
-</div>
-<div class="main-feature">
+<div class="services">
     <div class="container">
-        <div class="col-md-4 wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
-            <div class="media">
-                <div class="media-left">
-                    <i class="fa fa-rocket fa-3x"></i>
+        <div class="text-center">
+            <div class="services-box">
+                <div class="wow bounceInDown" data-wow-offset="0" data-wow-delay="0.3s">
+                    <h2>Nos Services</h2>
+                </div>
+                <div class="wow bounceInDown" data-wow-offset="0" data-wow-delay="0.6s">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing eil sed deiusmod tempor</p>
                 </div>
 
-                <div class="media-body">
-                    <h4 class="media-heading">SEO Optimized</h4>
-                    <p>Cras urna felis accumsan at ultricesid posuere masa um socisd natoque penatibus magnisd Lorem ipsum dolor sit ame onsectea dipe.</p>
-                </div>
-            </div>
-        </div>
 
-        <div class="col-md-4 wow fadeInUp" data-wow-offset="0" data-wow-delay="0.6s">
-            <div class="media">
-                <div class="media-left">
-                    <i class="fa fa-camera fa-3x"></i>
+                <div class="col-md-4">
+                    <div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.3s">
+                        <i class="fa fa-rocket fa-3x"></i>
+                    </div>
+                    <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
+                        <h4>Retina Ready</h4>
+                        <p>Cras urna felis accumsan at ultricesid posuere masa um socisd natoque penatibus magnisd</p>
+                    </div>
                 </div>
 
-                <div class="media-body">
-                    <h4 class="media-heading">Easy to Install</h4>
-                    <p>Cras urna felis accumsan at ultricesid posuere masa um socisd natoque penatibus magnisd Lorem ipsum dolor sit ame onsectea dipe.</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-4 wow fadeInUp" data-wow-offset="0" data-wow-delay="0.9s">
-            <div class="media">
-                <div class="media-left">
-                    <i class="fa fa-heart-o fa-3x"></i>
+                <div class="col-md-4">
+                    <div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.9s">
+                        <i class="fa fa-cogs fa-3x"></i>
+                    </div>
+                    <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.9s">
+                        <h4>Responsive</h4>
+                        <p>Cras urna felis accumsan at ultricesid posuere masa um socisd natoque penatibus magnisd</p>
+                    </div>
                 </div>
 
-                <div class="media-body">
-                    <h4 class="media-heading">Unlimited Possibilities</h4>
-                    <p>Cras urna felis accumsan at ultricesid posuere masa um socisd natoque penatibus magnisd Lorem ipsum dolor sit ame onsectea dipe.</p>
+                <div class="col-md-4">
+                    <div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="1.5s">
+                        <i class="fa fa-eye fa-3x"></i>
+                    </div>
+                    <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="1.5s">
+                        <h4>Free Support</h4>
+                        <p>Cras urna felis accumsan at ultricesid posuere masa um socisd natoque penatibus magnisd</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-
-
 </div>
+
 
 <footer>
     <div class="footer">
@@ -217,6 +174,8 @@
 <script src="js/jquery.isotope.min.js"></script>
 <script src="js/functions.js"></script>
 <script src="js/scripts.js"></script>
+
+
 
 </body>
 </html>

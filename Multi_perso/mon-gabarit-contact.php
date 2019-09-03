@@ -1,5 +1,7 @@
-<!DOCTYPE html>
-<html lang="fr-ca">
+<?php
+/* Template Name: Gabarit personnalisé */
+?>
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -50,95 +52,46 @@
     </nav>
 </header>
 
-<div class="slider">
-    <div class="img-responsive">
-        <ul class="bxslider">
-            <li><img src="<?php bloginfo('stylesheet_directory');?>/images/slider/1.jpg" alt=""/></li>
-            <li><img src="<?php bloginfo('stylesheet_directory');?>/images/slider/2.jpg" alt=""/></li>
-            <li><img src="<?php bloginfo('stylesheet_directory');?>/images/slider/3.jpg" alt=""/></li>
-        </ul>
-    </div>
-</div>
-
-<div class="container">
-    <div class="text-center">
-        <div class="wow bounceInDown" data-wow-offset="0" data-wow-delay="0.3s">
-            <h3>Providing Our Clients</h3>
-        </div>
-        <div class="wow bounceInDown" data-wow-offset="0" data-wow-delay="0.6s">
-            <h2>Best & Creative Solutions</h2>
-        </div>
-    </div>
-</div>
-
-<div class="box">
-    <div class="wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.4s">
-        <div class="col-sm-3">
-            <i class="fa fa-cogs fa-3x"></i>
-            <h4>Creative Solutions</h4>
-        </div>
-    </div>
-    <div class="wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.8s">
-        <div class="col-sm-3">
-            <i class="fa fa-leaf fa-3x"></i>
-            <h4>Creative Solutions</h4>
-        </div>
-    </div>
-    <div class="wow fadeInRight" data-wow-offset="0" data-wow-delay="1.2s">
-        <div class="col-sm-3">
-            <i class="fa fa-heart-o fa-3x"></i>
-            <h4>Creative Solutions</h4>
-        </div>
-    </div>
-    <div class="wow fadeInRight" data-wow-offset="0" data-wow-delay="1.6s">
-        <div class="col-sm-3">
-            <i class="fa fa-laptop fa-3x"></i>
-            <h4>Creative Solutions</h4>
-        </div>
-    </div>
-</div>
-<div class="main-feature">
+<div class="contact">
     <div class="container">
-        <div class="col-md-4 wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
-            <div class="media">
-                <div class="media-left">
-                    <i class="fa fa-rocket fa-3x"></i>
-                </div>
-
-                <div class="media-body">
-                    <h4 class="media-heading">SEO Optimized</h4>
-                    <p>Cras urna felis accumsan at ultricesid posuere masa um socisd natoque penatibus magnisd Lorem ipsum dolor sit ame onsectea dipe.</p>
-                </div>
+        <div class="text-center">
+            <div class="wow bounceInDown" data-wow-offset="0" data-wow-delay="0.3s">
+                <h2>Contact Us</h2>
+            </div>
+            <div class="wow bounceInDown" data-wow-offset="0" data-wow-delay="0.6s">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
             </div>
         </div>
+    </div>
+</div>
 
-        <div class="col-md-4 wow fadeInUp" data-wow-offset="0" data-wow-delay="0.6s">
-            <div class="media">
-                <div class="media-left">
-                    <i class="fa fa-camera fa-3x"></i>
-                </div>
-
-                <div class="media-body">
-                    <h4 class="media-heading">Easy to Install</h4>
-                    <p>Cras urna felis accumsan at ultricesid posuere masa um socisd natoque penatibus magnisd Lorem ipsum dolor sit ame onsectea dipe.</p>
-                </div>
+<div class="contact-form">
+    <div class="container">
+        <div class="col-md-4">
+            <div class="form-group">
+                <input type="email" class="form-control" id="exampleInputName" placeholder="name">
             </div>
         </div>
-
-        <div class="col-md-4 wow fadeInUp" data-wow-offset="0" data-wow-delay="0.9s">
-            <div class="media">
-                <div class="media-left">
-                    <i class="fa fa-heart-o fa-3x"></i>
-                </div>
-
-                <div class="media-body">
-                    <h4 class="media-heading">Unlimited Possibilities</h4>
-                    <p>Cras urna felis accumsan at ultricesid posuere masa um socisd natoque penatibus magnisd Lorem ipsum dolor sit ame onsectea dipe.</p>
-                </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="email">
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <input type="email" class="form-control" id="exampleInputPhone" placeholder="phone">
             </div>
         </div>
     </div>
 
+    <div class="container">
+        <div class="col-lg-12">
+            <textarea class="form-control" rows="5"></textarea>
+            <div class="form-group">
+                <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Envoyer</button>
+            </div>
+        </div>
+    </div>
 
 </div>
 
@@ -195,7 +148,6 @@
                     Licenseing information is available at: http://bootstraptaste.com/license/
                     You can buy this theme without footer links online at: http://bootstraptaste.com/buy/?theme=Multi
                 -->
-
             </div>
             <div class="pull-right">
                 <a href="#home" class="scrollup"><i class="fa fa-angle-up fa-3x"></i></a>
@@ -205,7 +157,7 @@
 </footer>
 
 
-<!-- jQuery (déjà intégré dans Wordpress) -->
+<<!-- jQuery (déjà intégré dans Wordpress) -->
 <script src="js/jquery-2.1.1.min.js"></script>
 
 <script src="js/bootstrap.min.js"></script>
