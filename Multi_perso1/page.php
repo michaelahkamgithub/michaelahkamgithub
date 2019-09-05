@@ -1,4 +1,3 @@
-<!-- Header -->
 
 <?php get_header(); ?>
 
@@ -19,8 +18,6 @@
             </div>
         </div>
     </div>
-</section><!--/#portfolio-item-->
-
-<!-- Footer -->
+</section>
 
 <?php get_footer(); ?>

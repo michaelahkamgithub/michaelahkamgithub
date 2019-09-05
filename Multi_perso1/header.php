@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?php bloginfo('name'); ?> - <?php bloginfo('description'); ?></title>
 
-    <!-- Bootstrap -->
+
     <?php wp_head(); ?>
 
 </head>
@@ -17,7 +17,7 @@
             <div class="container">
                 <div class="navbar-header">
                     <div class="navbar-brand">
-                        <a href="<?php echo home_url( '/' ); ?>"><h1>AEC Design Web</h1></a>
+                        <a href="<?php echo home_url( '/' ); ?>"><h1>Mica Branding</h1></a>
                     </div>
                 </div>
 

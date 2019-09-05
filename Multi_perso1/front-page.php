@@ -1,23 +1,13 @@
 <?php get_header(); ?>
 
-
-<section id="portfolio">
-    <div class="container">
-        <div class="col-lg-12">
-            <div class="text-center">
-                <?php if (have_posts()) : ?>
-                    <?php while (have_posts()) : the_post(); ?>
-                        <div class="wow bounceInDown" data-wow-offset="0" data-wow-delay="0.3s">
-                            <h2><?php the_title(); ?></h2>
-                        </div>
-                        <div class="wow bounceInDown" data-wow-offset="0" data-wow-delay="0.6s">
-                            <?php the_content(); ?>
-                        </div>
-                    <?php endwhile; ?>
-                <?php endif; ?>
-            </div>
-        </div>
+<div class="slider">
+    <div class="img-responsive">
+        <ul class="bxslider">
+            <li><img src="<?php bloginfo('stylesheet_directory');?>/images/slider/1.jpg" alt=""/></li>
+            <li><img src="<?php bloginfo('stylesheet_directory');?>/images/slider/2.jpg" alt=""/></li>
+            <li><img src="<?php bloginfo('stylesheet_directory');?>/images/slider/3.jpg" alt=""/></li>
+        </ul>
     </div>
-</section>
+</div>
 
 <?php get_footer(); ?>

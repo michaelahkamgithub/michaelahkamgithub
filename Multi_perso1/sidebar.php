@@ -1,4 +1,3 @@
-<!-- Zone secondaire de contenu -->
 
 <aside>
     <?php if(dynamic_sidebar('droite_1') ) :

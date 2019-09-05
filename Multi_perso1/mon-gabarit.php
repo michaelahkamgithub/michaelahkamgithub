@@ -1,23 +1,20 @@
 <?php
 /* Template Name: Gabarit personnalisé */
 ?>
+<!DOCTYPE html>
+<html lang="fr-ca">
+  <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <title><?php bloginfo('name'); ?> - <?php bloginfo('description'); ?></title>
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title><?php bloginfo('name'); ?></title>
+         <?php wp_head(); ?>
+   </head>
 
-        <!-- Bootstrap -->
-        <?php wp_head(); ?>
-
-
-    </head>
 <body>
 
-<!-- Entête/navabar-->
+
 <header>
     <nav class="navbar navbar-default navbar-static-top" role="navigation">
         <div class="navigation">
@@ -30,7 +27,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <div class="navbar-brand">
-                        <a href="index.html"><h1>AEC Design Web</h1></a>
+                        <a href="index.html"><h1><?php the_title(); ?></h1></a>
                     </div>
                     <div id="navmenu">
                         <?php wp_nav_menu(
@@ -71,15 +68,15 @@
                         <?php endwhile; ?>
                     <?php endif; ?>
 
-                </div><!--/.blog-item-->
-                <h2>Commentaires</h2>
-            </div><!--/.col-md-8-->
-        </div><!--/.row-->
+                </div>
+                <h2><?php the_title(); ?></h2>
+            </div>
+        </div>
     </div>
-</section><!--/#blog-->
+</section>
 
 
-<!-- Sidebar -->
+
 <?php get_sidebar(); ?>
-<!-- Footer -->
+
 <?php get_footer(); ?>

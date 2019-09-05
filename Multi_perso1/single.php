@@ -1,5 +1,3 @@
-<!-- Header -->
-
 <?php get_header(); ?>
 
 
@@ -16,7 +14,7 @@
                     <?php if (have_posts()) : ?>
                     <?php while (have_posts()) : the_post(); ?>
 
-                    <?php the_post_thumbnail ('medium_large'); ?>
+                    <?php the_post_thumbnail ('large'); ?>
                     <?php the_content(); ?>
 
                     <h5 id="publish_date">Publié le <?php the_time('m/j/y') ?><h5>
@@ -26,9 +24,9 @@
                                 <span><i class="fa fa-comment"></i> <a href="#"><?php comments_number(); ?></a></span>
                             </div>
 
-                            <?php endwhile; ?>
-                            <?php endif; ?>
-                </div><!--/.blog-item-->
+                     <?php endwhile; ?>
+                     <?php endif; ?>
+                </div>
                 <h2>Commentaires</h2>
 
                 <div class="comments">
@@ -56,67 +54,46 @@
                     </ul>
                 </nav>
 
-            </div><!--/.col-md-8-->
+            </div>
 
             <aside class="col-md-4">
                 <div class="widget search">
-                    <h3>Recherche</h3>
+                    <h3></h3>
                     <form role="form">
                         <input type="text" class="form-control search_box" autocomplete="off" placeholder="Tapez votre recherche ici">
                     </form>
-                </div><!--/.search-->
+                </div>
 
                 <div class="widget categories">
-                    <h3>Categories</h3>
+                    <h3></h3>
                     <div class="row">
                         <div class="col-sm-6">
-                            <ul class="blog_category">
-                                <li><a href="#">Computers <span class="badge">04</span></a></li>
-                                <li><a href="#">Smartphone <span class="badge">10</span></a></li>
-                                <li><a href="#">Gedgets <span class="badge">06</span></a></li>
-                                <li><a href="#">Technology <span class="badge">25</span></a></li>
-                            </ul>
+
                         </div>
                     </div>
-                </div><!--/.categories-->
+                </div>
 
                 <div class="widget archieve">
-                    <h3>Archives</h3>
+                    <h3></h3>
                     <div class="row">
                         <div class="col-sm-12">
-                            <ul class="blog_archieve">
-                                <li><a href="#"><i class="fa fa-angle-double-right"></i> December 2015 <span class="pull-right">(97)</span></a></li>
-                                <li><a href="#"><i class="fa fa-angle-double-right"></i> November 2015 <span class="pull-right">(32)</a></li>
-                                <li><a href="#"><i class="fa fa-angle-double-right"></i> October 2015 <span class="pull-right">(19)</a></li>
-                                <li><a href="#"><i class="fa fa-angle-double-right"></i> September 2015 <span class="pull-right">(08)</a></li>
-                            </ul>
+
                         </div>
                     </div>
-                </div><!--/.archieve-->
+                </div>
 
                 <div class="widget tags">
-                    <h3>Nuage de tags</h3>
-                    <ul class="tag-cloud">
-                        <li><a class="btn btn-xs btn-primary" href="#">Apple</a></li>
-                        <li><a class="btn btn-xs btn-primary" href="#">Barcelona</a></li>
-                        <li><a class="btn btn-xs btn-primary" href="#">Office</a></li>
-                        <li><a class="btn btn-xs btn-primary" href="#">Ipod</a></li>
-                        <li><a class="btn btn-xs btn-primary" href="#">Stock</a></li>
-                        <li><a class="btn btn-xs btn-primary" href="#">Race</a></li>
-                        <li><a class="btn btn-xs btn-primary" href="#">London</a></li>
-                        <li><a class="btn btn-xs btn-primary" href="#">Football</a></li>
-                        <li><a class="btn btn-xs btn-primary" href="#">Porche</a></li>
-                        <li><a class="btn btn-xs btn-primary" href="#">Gadgets</a></li>
-                    </ul>
-                </div><!--/.tags-->
+                    <h3></h3>
+
+                </div>
             </aside>
 
-        </div><!--/.row-->
+        </div>
     </div>
-</section><!--/#blog-->
+</section>
 
 
-<!-- Sidebar -->
+
 <?php get_sidebar(); ?>
-<!-- Footer -->
+
 <?php get_footer(); ?>
