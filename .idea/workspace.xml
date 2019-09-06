@@ -23,12 +23,21 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Multi_perso1/front-page.php">
+        <entry file="file://$PROJECT_DIR$/Examen_js/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="588">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examen_js/js/casseTete.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -38,9 +47,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -61,9 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TpProjetHTML/index.php" />
-        <option value="$PROJECT_DIR$/TpProjetHTML/FormulaireEnvoye.php" />
-        <option value="$PROJECT_DIR$/TpProjetHTML/footer.php" />
         <option value="$PROJECT_DIR$/Projet Test Michael/ProjetPerso/css/monScript.js" />
         <option value="$PROJECT_DIR$/Projet Test Michael/ProjetPerso/js/monScript.js" />
         <option value="$PROJECT_DIR$/Projet Test Michael/ProjetPerso/indexTest.html" />
@@ -112,13 +118,16 @@
         <option value="$PROJECT_DIR$/Multi_perso1/home.php" />
         <option value="$PROJECT_DIR$/Multi_perso1/single.php" />
         <option value="$PROJECT_DIR$/Multi_perso1/front-page.php" />
+        <option value="$PROJECT_DIR$/Examen_js/css/style.css" />
+        <option value="$PROJECT_DIR$/Examen_js/index.html" />
+        <option value="$PROJECT_DIR$/Examen_js/js/casseTete.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="270" />
-    <option name="y" value="63" />
-    <option name="width" value="1169" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="333" />
+    <option name="y" value="379" />
+    <option name="width" value="1438" />
     <option name="height" value="857" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -137,7 +146,13 @@
             <path>
               <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
               <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
-              <item name="Multi_perso1" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen_js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen_js" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,18 +302,21 @@
       <workItem from="1567600061885" duration="462000" />
       <workItem from="1567640939534" duration="10106000" />
       <workItem from="1567726072822" duration="697000" />
-      <workItem from="1567730297540" duration="1710000" />
+      <workItem from="1567730297540" duration="2065000" />
+      <workItem from="1567773220242" duration="16000" />
+      <workItem from="1567773264842" duration="39000" />
+      <workItem from="1567773387704" duration="2745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="454914000" />
+    <option name="totallyTimeSpent" value="458069000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="7" />
+    <frame x="333" y="379" width="1169" height="857" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12678856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29305682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -344,11 +362,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/mon-gabarit.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/sidebar.php" />
-    <entry file="file://$PROJECT_DIR$/Multi_perso/themefinal/apropos.php" />
-    <entry file="file://$PROJECT_DIR$/Multi_perso/themefinal/index.php" />
-    <entry file="file://$PROJECT_DIR$/Multi_perso/themefinal/mon-gabarit.php" />
     <entry file="file://$PROJECT_DIR$/Multi_perso/themefinal/page.php" />
     <entry file="file://$PROJECT_DIR$/mtl375_perso/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -568,6 +581,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash/Index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntégrationWeb1/ProjetFinal/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen_js/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen_js/js/casseTete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen_js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
