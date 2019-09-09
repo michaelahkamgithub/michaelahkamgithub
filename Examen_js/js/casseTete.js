@@ -1,13 +1,37 @@
-var premierClique = 0;
-var prImgSRC;
-var prImgID;
-var deuxImgSRC;
-var deuxImgID
+$("#boutonRecommencer").click(function(){
+    $("#image1").attr("src", "img/image-04.jpg");
+    $("#image2").attr("src", "img/image-09.jpg");
+    $("#image3").attr("src", "img/image-05.jpg");
+    $("#image4").attr("src", "img/image-03.jpg");
+    $("#image5").attr("src", "img/image-07.jpg");
+    $("#image6").attr("src", "img/image-06.jpg");
+    $("#image7").attr("src", "img/image-01.jpg");
+    $("#image8").attr("src", "img/image-02.jpg");
+    $("#image9").attr("src", "img/image-08.jpg");
+    $("#solide").hide();
 
-$(".img-fluid").hover(function(){
-    $(".img-fluid").css("cursor","pointer");
 });
 
+$("#boutonTricher").click(function(){
+    $("#image1").attr("src", "img/image-01.jpg");
+    $("#image2").attr("src", "img/image-02.jpg");
+    $("#image3").attr("src", "img/image-03.jpg");
+    $("#image4").attr("src", "img/image-04.jpg");
+    $("#image5").attr("src", "img/image-05.jpg");
+    $("#image6").attr("src", "img/image-06.jpg");
+    $("#image7").attr("src", "img/image-07.jpg");
+    $("#image8").attr("src", "img/image-08.jpg");
+    $("#image9").attr("src", "img/image-09.jpg");
+    $("#solide").show();
+
+});
+
+var premierClique = 0;
+var prImgID;
+var deuxImgID
+
+var prImgSRC;
+var deuxImgSRC;
 var Compteur = 0;
 
 $(".img-fluid").click(function() {
@@ -36,31 +60,8 @@ $(".img-fluid").click(function() {
     }
 });
 
-$("#boutonRecommencer").click(function(){
-    $("#image1").attr("src", "img/image-04.jpg");
-    $("#image2").attr("src", "img/image-09.jpg");
-    $("#image3").attr("src", "img/image-05.jpg");
-    $("#image4").attr("src", "img/image-03.jpg");
-    $("#image5").attr("src", "img/image-07.jpg");
-    $("#image6").attr("src", "img/image-06.jpg");
-    $("#image7").attr("src", "img/image-01.jpg");
-    $("#image8").attr("src", "img/image-02.jpg");
-    $("#image9").attr("src", "img/image-08.jpg");
-    $("#solide").hide();
-
+$(".img-fluid").hover(function(){
+    $(".img-fluid").css("cursor", "pointer");
 });
 
-$("#boutonTricher").click(function(){
-    $("#image1").attr("src", "img/image-01.jpg");
-    $("#image2").attr("src", "img/image-02.jpg");
-    $("#image3").attr("src", "img/image-03.jpg");
-    $("#image4").attr("src", "img/image-04.jpg");
-    $("#image5").attr("src", "img/image-05.jpg");
-    $("#image6").attr("src", "img/image-06.jpg");
-    $("#image7").attr("src", "img/image-07.jpg");
-    $("#image8").attr("src", "img/image-08.jpg");
-    $("#image9").attr("src", "img/image-09.jpg");
-    $("#solide").show();
-
-});
 
