@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projet_final/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+            <state relative-caret-position="569">
+              <caret line="98" column="22" selection-start-line="90" selection-end-line="110" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Projet_final/À propos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="586">
+              <caret line="85" column="691" selection-start-line="85" selection-start-column="691" selection-end-line="85" selection-end-column="691" />
             </state>
           </provider>
         </entry>
@@ -314,16 +314,15 @@
       <workItem from="1568929710595" duration="137000" />
       <workItem from="1568938034630" duration="178000" />
       <workItem from="1569072006299" duration="17261000" />
-      <workItem from="1569195552182" duration="2807000" />
+      <workItem from="1569195552182" duration="5247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="489448000" />
+    <option name="totallyTimeSpent" value="491888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13394277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -636,15 +635,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Projet_final/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="569">
+          <caret line="98" column="22" selection-start-line="90" selection-end-line="110" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projet_final/À propos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="586">
+          <caret line="85" column="691" selection-start-line="85" selection-start-column="691" selection-end-line="85" selection-end-column="691" />
         </state>
       </provider>
     </entry>
