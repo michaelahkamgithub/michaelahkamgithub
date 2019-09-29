@@ -168,6 +168,45 @@ html,body{
 .texteDore{
     color: #e7aa07
 }
+.texteRouge{
+    color: red;
+}
 .font {
-    font-family: "Arial Black";
+    font-family: Mistral;
+}
+.tailleTexte{
+    font-size: 44px;
+}
+.font1{
+    font-family: Mistral;
+    font-size: 52px;
+}
+@media only screen and (max-width: 575px){
+    .texteService{
+        font-size: 32px;
+    }
+    .texteMassageReflex{
+        font-size: 30px;
+    }
+    .texteMassageFemmeEnceinte{
+        font-size: 30px;
+    }
+    .texteMassageEnfant{
+        font-size: 30px;
+    }
+    .texteInscription{
+        font-size: 28px;
+    }
+    .texteReserveSeance{
+        font-size: 28px;
+    }
+    .texteMassageAdulte{
+        font-size: 28px;
+    }
+    .texteTarifs{
+        font-size: 30px;
+    }
+    .texteTarifsMassage{
+        font-size: 34px;
+    }
 }
