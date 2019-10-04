@@ -172,14 +172,14 @@ html,body{
     color: red;
 }
 .font {
-    font-family: Mistral;
+    font-family:Mistral ;
 }
 .tailleTexte{
-    font-size: 44px;
+    font-size: 32px;
 }
 .font1{
     font-family: Mistral;
-    font-size: 52px;
+    font-size: 42px;
 }
 @media only screen and (max-width: 575px){
     .texteService{
