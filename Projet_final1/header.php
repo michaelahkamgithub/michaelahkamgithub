@@ -40,7 +40,7 @@
                 <a class="nav-link js-scroll-trigger " href="Tarifs.html">Tarifs</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link js-scroll-trigger " href="Contact.html">Contacts</a>
+                <a class="nav-link js-scroll-trigger " href="contact.php">Contacts</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link js-scroll-trigger " href="https://www.moleculesenaction.ca/default.asp" target="_blank">Molécules en action</a>
