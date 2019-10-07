@@ -20,14 +20,18 @@
 <body>
 
 <!-- Navigation -->
-<header>
-<nav id="header" class="navbar navbar-expand-lg navbar-dark bg-menu fixed-top py-3">
+<nav class="navbar navbar-expand-lg navbar-dark bg-menu fixed-top py-3">
     <a class="navbar-brand js-scroll-trigger" href="<?php echo home_url( '/' ); ?>"><img src="wp-content/themes/projetFinal/img/Sylvie%20massé.png" height="65" width="225" alt="Mon logo" title="Mon logo"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav ml-auto my-2 my-lg-0">
+            <?php wp_nav_menu(
+                array(
+                    'theme_location'	=> 	'menu_principal',
+                    'container'		 	=>	'nav')
+            ); ?>
             <li class="navbar-item">
                 <a class="nav-link js-scroll-trigger" href="index.html">Accueil</a>
             </li>
@@ -52,6 +56,3 @@
         </div>
     </div>
 </nav>
-</header>
-
-

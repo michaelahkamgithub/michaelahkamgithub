@@ -15,10 +15,9 @@ function add_theme_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'add_theme_scripts');
 
-function enregistre_mon_menu() {
-    register_nav_menu( 'menu_principal', __( 'Menu principal' ) );
+function enregistrer_menu() {
+    register_nav_menu( 'menu_principal', 'Menu principal');
 }
-add_action( 'init', 'enregistre_mon_menu' );
+add_action( 'init', 'enregistrer_menu');
 
 
-?>

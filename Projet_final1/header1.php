@@ -19,7 +19,8 @@
 				<?php wp_nav_menu( 
 					array(
 						'theme_location'	=> 	'menu_principal',
-						'container'		 	=>	'nav')
+						'container'		 	=>	'nav'
+                    )
 				); ?>
 
 			</div>
