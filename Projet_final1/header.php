@@ -2,12 +2,12 @@
 <html lang="fr-ca">
 <head>
     <meta charset="UTF-8">
-    <title>Sylvie massé massothérapeute | Salon de massage Gatineau</title>
-    <link rel="stylesheet" href="css/bootstrap.css">
+    <title><?php bloginfo('name'); ?> - <?php bloginfo('description'); ?></title>
+    <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/bootstrap.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Gugi" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/style.css">
+    <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/animate.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Salon de massage à Gatineau."/>
     <meta name ="keywords" content= "Massothérapie, massothérapeute, réflexologie, massage, bien-être, détente, massage gatineau, massothérapie gatineau, massothérapeute gatineau">
@@ -20,8 +20,9 @@
 <body>
 
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-menu fixed-top py-3">
-    <a class="navbar-brand js-scroll-trigger" href="index.html"><img src="wp-content/themes/projetFinal/img/Sylvie%20massé.png" height="65" width="225" alt="Mon logo" title="Mon logo"></a>
+<header>
+<nav id="header" class="navbar navbar-expand-lg navbar-dark bg-menu fixed-top py-3">
+    <a class="navbar-brand js-scroll-trigger" href="<?php echo home_url( '/' ); ?>"><img src="wp-content/themes/projetFinal/img/Sylvie%20massé.png" height="65" width="225" alt="Mon logo" title="Mon logo"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -51,3 +52,6 @@
         </div>
     </div>
 </nav>
+</header>
+
+
