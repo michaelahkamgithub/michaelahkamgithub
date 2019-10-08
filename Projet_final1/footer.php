@@ -1,7 +1,7 @@
 <!-- Footer -->
 <footer class="bg-light py-5">
     <div class="container">
-        <div class="small text-center text-muted">Copyright &copy; 2019 - Sylvie massé massothérapeute. Tous droits réservés</div>
+        <div class="small text-center text-muted">Conception par Book Communication | Copyright &copy; 2019 - Sylvie massé massothérapeute. Tous droits réservés</div>
     </div>
 </footer>
 

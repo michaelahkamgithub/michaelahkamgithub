@@ -26,31 +26,17 @@
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav ml-auto my-2 my-lg-0">
-            <?php wp_nav_menu(
-                array(
-                    'theme_location'	=> 	'menu_principal',
-                    'container'		 	=>	'nav')
-            ); ?>
-            <li class="navbar-item">
-                <a class="nav-link js-scroll-trigger" href="index.html">Accueil</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="À%20propos.html">À propos</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link js-scroll-trigger " href="Massages.html">Massages</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link js-scroll-trigger " href="Tarifs.html">Tarifs</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link js-scroll-trigger " href="Contact.html">Contacts</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link js-scroll-trigger " href="https://www.moleculesenaction.ca/default.asp" target="_blank">Molécules en action</a>
-            </li>
-        </ul>
+        <?php
+        wp_nav_menu( array(
+            'theme_location' => 'primary', // Defined when registering the menu
+            'container' => false,
+            'depth' => 2,
+            'menu_class' => 'navbar-nav ml-auto',
+            'walker' => new Bootstrap_NavWalker(), // This controls the display of the Bootstrap Navbar
+            'fallback_cb' => 'Bootstrap_NavWalker::fallback', // For menu fallback
+        ) );
+        ?>
+        <a class="nav-link js-scroll-trigger texteVert" href="https://www.moleculesenaction.ca/default.asp" target="_blank">Molécules en action</a>
         <div class="navbar-nav ml-auto">
             <a href="https://www.facebook.com/bkcommunication/" target="_blank"><i class="fab fa-facebook-square fa-3x"></i></a>
         </div>

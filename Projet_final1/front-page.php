@@ -5,7 +5,7 @@
 
         </div>
     </div>
-    <div class="row align-items-center text-center  no-gutters">
+    <div class="row align-items-center text-center  no-gutters pt-3">
         <div class="col-xl-12 col-md-12 col-12">
             <img src="wp-content/themes/projetFinal/img/titreBienetre.jpg" alt="À propos" class="img-fluid"/>
         </div>
@@ -91,7 +91,7 @@
             <img src="wp-content/themes/projetFinal/img/time.jpg" alt="Rendez-vous" class="img-fluid"/>
             <h2 class="pt-3 mb-3 texteInscription font1">Le bien-être avant tout?</h2>
             <h3 class="mb-3 texteReserveSeance font tailleTexte">Prenez votre rendez-vous dès maintenant!</h3>
-            <a class="btn btn-danger btn-lg mb-3" href="Tarifs.html">Rendez-vous</a>
+            <a class="btn btn-danger btn-lg mb-3" href="http://d1iwc.expertiseweb.ca/ProjetFinal/tarifs">Rendez-vous</a>
         </div>
     </div>
 </div>

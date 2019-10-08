@@ -29,7 +29,7 @@
 }
 .navbar .navbar-nav .dropdown-menu {
     background-color: #000000;
-    border-color: #ff0b00;
+    border-color: #e7aa07;
 }
 .navbar .navbar-nav .dropdown-menu .dropdown-item {
     color: #00ff00;
@@ -38,10 +38,10 @@
 .navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
 .navbar .navbar-nav .dropdown-menu .dropdown-item.active {
     color: #00ff00;
-    background-color: #ff0b00;
+    background-color: #e7aa07;
 }
 .navbar .navbar-nav .dropdown-menu .dropdown-divider {
-    border-top-color: #ff0b00;
+    border-top-color: #e7aa07;
 }
 .navbar .navbar-nav .nav-item.active .nav-link,
 .navbar .navbar-nav .nav-item.active .nav-link:hover,
@@ -50,14 +50,14 @@
 .navbar .navbar-nav .nav-item.show .nav-link:hover,
 .navbar .navbar-nav .nav-item.show .nav-link:focus {
     color: #00ff00;
-    background-color: #ff0b00;
+    background-color: #e7aa07;
 }
 .navbar .navbar-toggle {
-    border-color: #ff0b00;
+    border-color: #e7aa07;
 }
 .navbar .navbar-toggle:hover,
 .navbar .navbar-toggle:focus {
-    background-color: #ff0b00;
+    background-color: #e7aa07;
 }
 .navbar .navbar-toggle .navbar-toggler-icon {
     color: #00ff00;
@@ -83,7 +83,7 @@
     }
     .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
         color: #00ff00;
-        background-color: #ff0b00;
+        background-color: #e7aa07;
     }
 }
 
@@ -97,7 +97,7 @@
     }
     .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
         color: #00ff00;
-        background-color: #ff0b00;
+        background-color: #e7aa07;
     }
 }
 
@@ -111,7 +111,7 @@
     }
     .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
         color: #00ff00;
-        background-color: #ff0b00;
+        background-color: #e7aa07;
     }
 }
 
@@ -125,7 +125,7 @@
     }
     .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
         color: #00ff00;
-        background-color: #ff0b00;
+        background-color: #e7aa07;
     }
 }
 
@@ -138,7 +138,7 @@
 }
 .navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
     color: #00ff00;
-    background-color: #ff0b00;
+    background-color: #e7aa07;
 }
 
 .fab{
@@ -170,6 +170,12 @@ html,body{
 }
 .texteRouge{
     color: red;
+}
+.texteVert{
+    color: #00ff00
+}
+a:hover{
+    text-decoration: underline; color: #00ff00;
 }
 .font {
     font-family:Mistral ;
