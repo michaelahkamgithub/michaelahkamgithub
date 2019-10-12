@@ -1,0 +1,58 @@
+.rouge{
+    height: 175px;
+    background-color: red;
+}
+.orange {
+    height: 300px;
+    background-color: orangered;
+}
+html,body{
+    margin:0;
+    height: 100%;
+}
+.bg
+{
+    background-image: url("../img/bg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hauteur100{
+    height: 100%;
+}
+@font-face {
+    font-family: Plateia;
+    src: url("PlateiaBold.ttf");
+}
+.titreJaune{
+    font-size: 48px;
+    color: yellow;
+    font-family:Plateia;
+}
+.ligneRouge {
+    padding-bottom: 25px;
+    padding-top: 25px;
+    max-width: 150px;
+    border-width: 6px;
+    border-color: red;
+}
+.ligneBlanche{
+    padding-bottom: 5px;
+    padding-top: 0px;
+    max-width: 150px;
+    border-width: 6px;
+    border-color: white;
+}
+.sousTitre{
+    font-size: 32px;
+    color: white;
+    padding: 0px;
+}
+.texte{
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+.container-fluid{
+    padding: 0;
+    margin: 0;
