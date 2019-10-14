@@ -5,7 +5,7 @@
 
         </div>
     </div>
-    <div class="row align-items-center text-center  no-gutters pt-3">
+    <div class="row align-items-center text-center  no-gutters pt-2">
         <div class="col-xl-12 col-md-12 col-12">
             <img src="wp-content/themes/projetFinal/img/titreBienetre.jpg" alt="À propos" class="img-fluid"/>
         </div>
@@ -20,7 +20,7 @@
     </ul>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="img-fluid" src="wp-content/themes/projetFinal/img/Relaxation.jpg" alt="Relaxation">
+            <img class="img-fluid" src="wp-content/themes/projetFinal/img/RelaxationMasso.jpg" alt="Relaxation">
         </div>
         <div class="carousel-item">
             <img class="img-fluid" src="wp-content/themes/projetFinal/img/Relaxation1.jpg" alt="Relaxation1">
@@ -43,7 +43,7 @@
             <h2 class="texteDore font tailleTexte wow slideInLeft" data-wow-duration="3s" data-wow-delay=".4s">Lun au Ven : 8h à 17h <br> Sam et Dim : Fermé</h2>
         </div>
         <div class="col-xl-4 d-md-none d-lg-block d-none d-sm-block pt-4 bandeNoir">
-            <h2 class="texteDore font tailleTexte wow bounceIn" data-wow-duration="3s" data-wow-delay="4s">(819) 775-3551<br>info@moleculesenaction.ca</h2>
+            <h2 class="texteDore font tailleTexte wow bounceIn" data-wow-duration="3s" data-wow-delay="4s">(819) 775-3551 <br> info@moleculesenaction.ca</h2>
         </div>
         <div class="col-xl-4 d-md-none d-lg-block d-none d-sm-block pt-4 bandeNoir">
             <h2 class="texteDore font tailleTexte wow slideInRight" data-wow-duration="3s" data-wow-delay="2s">Sylvie Massé Massothérapeute<br>34 rue St-Dominique<br>GATINEAU (Secteur Hull), QC, J9A 1A2</h2>
@@ -61,14 +61,17 @@
         <div class="col-xl-4 col-md-12 col-12">
             <img src="wp-content/themes/projetFinal/img/Massage.jpg" alt="Massage femme" class="img-fluid"/>
             <h1 class="pt-3 texteMassageReflex font1">Massage et réflexologie</h1>
+            <a class="btn btn-danger btn-lg mb-3" href="http://d1iwc.expertiseweb.ca/ProjetFinal/massages">En savoir plus</a>
         </div>
         <div class="col-xl-4 col-md-12 col-12">
             <img src="wp-content/themes/projetFinal/img/Femme_enceinte.jpg" alt="Femme enceinte" class="img-fluid"/>
             <h1 class="pt-3 texteMassageFemmeEnceinte font1">Massage femme enceinte</h1>
+            <a class="btn btn-danger btn-lg mb-3" href="http://d1iwc.expertiseweb.ca/ProjetFinal/massages">En savoir plus</a>
         </div>
         <div class="col-xl-4 col-md-12 col-12">
             <img src="wp-content/themes/projetFinal/img/Massage_enfant.jpg" alt="Massage enfant" class="img-fluid"/>
             <h1 class="pt-3 texteMassageEnfant font1">Massage enfant 5 ans et plus</h1>
+            <a class="btn btn-danger btn-lg mb-3" href="http://d1iwc.expertiseweb.ca/ProjetFinal/massages">En savoir plus</a>
         </div>
     </div>
 </div>

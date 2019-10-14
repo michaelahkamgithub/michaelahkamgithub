@@ -36,7 +36,9 @@
             'fallback_cb' => 'Bootstrap_NavWalker::fallback', // For menu fallback
         ) );
         ?>
-        <a class="nav-link js-scroll-trigger texteVert" href="https://www.moleculesenaction.ca/default.asp" target="_blank">Molécules en action</a>
+        <div class="navbar-nav">
+            <a class="nav-link js-scroll-trigger texteVert" href="https://www.moleculesenaction.ca/default.asp" target="_blank">Molécules en action</a>
+        </div>
         <div class="navbar-nav ml-auto">
             <a href="https://www.facebook.com/bkcommunication/" target="_blank"><i class="fab fa-facebook-square fa-3x"></i></a>
         </div>
