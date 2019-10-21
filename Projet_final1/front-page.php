@@ -76,7 +76,7 @@
     </div>
 </div>
 
-<div class="jumbotron jumbotron-fluid pt-5">
+<div class="jumbotron jumbotron-fluid pt-5 mb-0">
     <div class="container-fluid align-items-center text-center">
         <img src="wp-content/themes/projetFinal/img/bannière.jpg" alt="méditation" title="méditation" class="img-fluid">
     </div>
