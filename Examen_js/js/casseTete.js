@@ -43,6 +43,7 @@ $(".img-fluid").click(function() {
         prImgSRC = srcImg;
         prImgID = idImg;
         premierClique = 0;
+
     }
     else{
         deuxImgSRC = srcImg;
@@ -57,8 +58,10 @@ $(".img-fluid").click(function() {
         deuxImgID = "";
         Compteur = Compteur + 1;
 
+
     }
 });
+
 
 $(".img-fluid").hover(function(){
     $(".img-fluid").css("cursor", "pointer");

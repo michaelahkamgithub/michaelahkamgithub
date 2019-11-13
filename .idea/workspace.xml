@@ -9,7 +9,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examen_js/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Examen_js/js/casseTete.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,14 +59,16 @@
         <option value="$PROJECT_DIR$/TechniquesProgrammationWeb1/js/exercice9.js" />
         <option value="$PROJECT_DIR$/TechniquesProgrammationWeb1/js/exercice10.js" />
         <option value="$PROJECT_DIR$/TechniquesProgrammationWeb1/index.html" />
+        <option value="$PROJECT_DIR$/Examen_js/index.html" />
+        <option value="$PROJECT_DIR$/Examen_js/js/casseTete.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="151" />
-    <option name="y" value="-10" />
-    <option name="width" value="1951" />
-    <option name="height" value="1041" />
+    <option name="x" value="-708" />
+    <option name="y" value="98" />
+    <option name="width" value="1517" />
+    <option name="height" value="714" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -55,13 +76,34 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen_js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelahkamgithub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michaelahkamgithub" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen_js" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Michael Design Branding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -116,16 +158,18 @@
       <workItem from="1573169614435" duration="603000" />
       <workItem from="1573176937780" duration="21000" />
       <workItem from="1573308038202" duration="43000" />
+      <workItem from="1573610276851" duration="4008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27191000" />
+    <option name="totallyTimeSpent" value="31199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28214827" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2845787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,6 +338,29 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/Michael Design Branding/index.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen_js/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen_js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen_js/js/casseTete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
